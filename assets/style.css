@@ -17,7 +17,7 @@ body {
 .title {
   text-align: center;
   background-color: transparent;
-  color: black;
+  color: #3b3b3b;
   border-radius: 0;
   border-bottom: 5px solid #6b73ca;
   margin-top: 2%;
@@ -30,7 +30,7 @@ body {
 
 .row {
   white-space: pre-line;
-  height: 80px;
+  height: 70px;
   border-top: 4px solid white;
 }
 
@@ -70,4 +70,6 @@ body {
   color: #000000;
   font-weight: 500;
   padding-left: 0;
+  border-radius: 10px 0px 0px 10px;
+  padding-top: 10px;
 }
