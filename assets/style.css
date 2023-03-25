@@ -29,10 +29,9 @@ body {
 }
 
 .row {
-  white-space: pre-wrap;
+  white-space: pre-line;
   height: 80px;
-  border-top: 1px solid white;
-  ;
+  border-top: 4px solid white;
 }
 
 /* JS will judge which one is past/present/future */
