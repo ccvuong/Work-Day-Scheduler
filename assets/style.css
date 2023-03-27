@@ -6,22 +6,22 @@ body {
   line-height: 1;
 }
 
-#inputArea {
-  background: #e3e3e3;
-  border: none;
-  resize: none;
-  color: #000000;
-  padding: 10px;
-}
-
-.title {
+.jumbotron {
   text-align: center;
   background-color: transparent;
   color: #3b3b3b;
   border-radius: 0;
   border-bottom: 5px solid #6b73ca;
-  margin-top: 2%;
   margin-bottom: 2%;
+}
+
+.lead {
+  font-weight: 500;
+}
+
+.header {
+  font-size: xx-large;
+  padding-top: 10px;
 }
 
 .description {
@@ -29,47 +29,52 @@ body {
 }
 
 .row {
-  white-space: pre-line;
   height: 70px;
   border-top: 4px solid white;
+}
+
+.userTextBox {
+  display: flex;
+  padding-top: 10px;
+  font-weight: 500;
+  border: none;
+}
+
+.time-block {
+  color: black;
+  display: flex;
+  align-items: center;
+  padding-left: 9%;
+  background-color: #c0e7ff;
+  border-radius: 10px 0px 0px 10px;
+  justify-content: flex-end;
 }
 
 /* JS will judge which one is past/present/future */
 .past {
   background-color: #acacac;
-  color: white;
+  color: black;
 }
 
 .present {
   background-color: #d5ff61;
-  color: white;
+  color: black;
 }
 
 .future {
   background-color: #b877dd;
-  color: white;
+  color: black;
 }
 
 .saveBtn {
   background-color: #06d599;
   color: white;
+  width: 7%;
+  border-radius: 0px 10px 10px 0px;
+  border: none;
 }
 
 .saveBtn:hover {
   font-size: 20px;
-  background-color: #06d599;
-}
-
-.time-of-day {
-  text-align: end;
-  border-radius: 15px;
-}
-
-.hour {
-  background-color: #46dbe8;
-  color: #000000;
-  font-weight: 500;
-  padding-left: 0;
-  border-radius: 10px 0px 0px 10px;
-  padding-top: 10px;
+  color: black
 }
