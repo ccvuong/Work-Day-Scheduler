@@ -42,7 +42,7 @@ THEN the saved events persist
 ![daily-planner-preview](https://user-images.githubusercontent.com/116984891/227813154-5c2ec2f6-d992-4b04-9c8d-eef68d9de24f.png)
 
 ## Deployed Page
-(TBA)
+[🔥 Daily Planner](https://ccvuong.github.io/Work-Day-Scheduler/)
 
 ## Contributors
 [😎 Christina Vuong ](https://github.com/ccvuong)
