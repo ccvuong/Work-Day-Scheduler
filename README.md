@@ -39,7 +39,7 @@ THEN the saved events persist
 ```
 
 ## Preview
-(TBA)
+![daily-planner-preview](https://user-images.githubusercontent.com/116984891/227813154-5c2ec2f6-d992-4b04-9c8d-eef68d9de24f.png)
 
 ## Deployed Page
 (TBA)
